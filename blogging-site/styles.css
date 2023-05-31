@@ -1,0 +1,10 @@
+.about-me {
+    color:chartreuse;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 75%;
+}
+
+.emphasize {
+    color: red;
+    font-style: italic;
+}
