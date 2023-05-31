@@ -8,3 +8,10 @@
     color: red;
     font-style: italic;
 }
+
+.blog-post {
+    text-align: justify;
+    width: 80%;
+    margin-top: 15px;
+    margin-bottom: 17px;
+}
