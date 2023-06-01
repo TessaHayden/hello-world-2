@@ -1,0 +1,26 @@
+body {
+    background-color: aquamarine;
+}
+
+div {
+    background-color: yellow;
+}
+
+p {
+    box-sizing: border-box;
+}
+
+.adopt {
+    width: 50%;
+    float: left;
+}
+
+.description {
+    background-color: red;
+    padding: 3px;
+}
+
+h1 {
+    text-align:center;
+}
+ 
